@@ -1,0 +1,13 @@
+{
+  "name": "peliculas",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
