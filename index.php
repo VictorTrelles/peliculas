@@ -102,19 +102,19 @@
 	</object>
 </video>
 
-<video autobuffer autoloop loop controls>
-	<source src="La corriente electrica.mp4">
-	<param name="autoplay" value="false">
-	<param name="autoStart" value="0">
-	<p><a href="/media/video.oga">Download this video file.</a></p>
-	</object>
-</video>
+
 
 <video autobuffer autoloop loop controls>
 	<source src="La corriente electrica.mp4">
 	<param name="autoplay" value="false">
 	<param name="autoStart" value="0">
+	<p><a href="/media/video.oga">Download this video file.</<video autobuffer autoloop loop controls>
+	<source src="La corriente electrica.mp4">
+	<param name="autoplay" value="false">
+	<param name="autoStart" value="0">
 	<p><a href="/media/video.oga">Download this video file.</a></p>
+	</object>
+</video>a></p>
 	</object>
 </video>
 
